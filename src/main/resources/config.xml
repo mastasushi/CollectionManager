@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<collection>
+	<artistes>
+		<artiste name="xteal"/>
+	</artistes>
+	<series>
+		<serie>one piece</serie>
+		<serie>naruto</serie>
+	</series>
+	<categories>
+	</categories>
+</collection>
